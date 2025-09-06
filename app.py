@@ -1,5 +1,5 @@
 """
-Streamlit Prompt Enhancer
+My Prompt Enhancer
 -------------------------
 Builds a better prompt from Role, Context, and Task.
 Outputs the improved prompt only (in three formats).
@@ -27,7 +27,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("✨ Prompt Enhancer")
+st.title("✨ My Prompt Enhancer")
 st.caption("Turn Role • Context • Task into a more elaborate, professional prompt")
 
 # ---------------------------
